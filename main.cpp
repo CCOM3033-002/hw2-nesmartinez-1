@@ -5,7 +5,8 @@ GitHub username: nesmartinez-1
 Num. Est: 802-22-3069
 */
 
-/*Saludos profe, I got a little confused con la fecha de entrega de esta asignacion. Habia pensado que era para hoy antes de las 10 pq la confundi con el Lab 2.
+/*Saludos profe, I got a little confused con la fecha de entrega de esta asignacion. 
+Habia pensado que era para hoy antes de las 10 pq la confundi con el Lab 2 which is due today before 10
 It would be great if no pts were taken off because of the tardiness but I'll understand
 Thanks! :)
 */
